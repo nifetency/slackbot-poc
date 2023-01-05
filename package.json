@@ -1,0 +1,10 @@
+{
+  "name": "aiac-ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  
+"dependencies": {
+    "slack-notify": "^2.0.6"
+  }
+  }
