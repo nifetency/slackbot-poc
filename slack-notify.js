@@ -1,7 +1,7 @@
 // Import module:
 
 import SlackNotify from 'slack-notify';
-const MY_SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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';
+const MY_SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/<hookURL>';
 const slack = SlackNotify(MY_SLACK_WEBHOOK_URL);
 
 // Example sending just text, using the Slack-provided configuration:
